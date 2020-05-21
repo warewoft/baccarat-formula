@@ -1,4 +1,4 @@
-![Next.js Logo](../../packages/frameworks/logos/next.svg)
+![Next.js Logo](https://devahoy.com/static/4f30173effb21b5c989f7c791072a48b/c6969/next-js.webp)
 
 # Next.js Example
 
