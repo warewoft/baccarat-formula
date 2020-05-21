@@ -208,7 +208,7 @@ const Home = () => {
         }
         .hero {
           // background-color: #e7eff1;
-          background-image: url("/เว็บพนันบอลออนไลน์-สะดวก-สบาย-เล่นกว่าที่.jpg");
+          background-image: url("/bglight.png");
 
           background-repeat: no-repeat;
           background-position: center center;
