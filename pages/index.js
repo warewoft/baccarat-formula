@@ -41,7 +41,7 @@ const Home = () => {
 
   return (
     <div>
-      <Head title="Home" />
+      <Head title="SA64SOOD" />
 
       <link
         href="https://fonts.googleapis.com/css?family=Prompt&display=swap"
