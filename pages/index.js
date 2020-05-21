@@ -75,7 +75,7 @@ const Home = () => {
                     className="sss"
                   />
                   <br />
-                  <p className="pt-1">ตานี้เดิมพัน: เสมอ</p>
+                  <p className="pt-1">รอสูตร</p>
                 </p>
               ) : (
                 <p className="description">
