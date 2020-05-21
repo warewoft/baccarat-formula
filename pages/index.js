@@ -49,7 +49,7 @@ const Home = () => {
       />
       <div className="hero">
         <center>
-          <img className="pt-5 sss" src="/logobrand66.png" width="500px" />
+          <img className="pt-5 sss" src="/logo.jpg" width="500px" />
         </center>
         <h1 className="title">สูตรบาคาร่า</h1>
         {!lodding ? (
