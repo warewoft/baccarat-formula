@@ -70,13 +70,13 @@ const Home = () => {
                 <p className="description">
                   <img
                     //src="/TT.png"
-					src=""
+					src="/wait.png"
                     align="center"
-                    width="50px"
+                    width="70px"
                     className="sss"
                   />
                   <br />
-                  <p className="pt-1">รอผล</p>
+                  <p className="pt-1">รอสูตร</p>
                 </p>
               ) : (
                 <p className="description">
